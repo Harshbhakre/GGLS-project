@@ -29,7 +29,7 @@ This project is a simple profile management system where users can log in, edit,
 ## How to Run
 1. Clone this repository:
    ```sh
-   git clone <>
+   git clone <https://github.com/Harshbhakre/GGLS-project>
    ```
 2. Open the project in a browser or a local server.
 3. Log in using the provided credentials.
