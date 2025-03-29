@@ -21,9 +21,9 @@ This project is a simple profile management system where users can log in, edit,
   - Clicking on the logout button will log out the user from the system.
 
 ## Technologies Used
-- HTML
-- CSS
-- JavaScript
+- React
+- TailwindCSS
+- JXS
 - API (Reqres.in for authentication)
 
 ## How to Run
